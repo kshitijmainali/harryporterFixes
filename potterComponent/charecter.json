@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Harry Potter",
+    "key": "harry",
+    "short": "Lead charecter and son of Lili Potter",
+    "description": "Lead charecter and son of Lili Potter. Has a u shape mark in his forehead and is a hero who beat lor voldemort in the field",
+    "photo": "/assets/harry.jpg",
+    "nickNames": ["Boy Who Lived", "Chosen One", "Undesirable No. 1"]
+  },
+  {
+    "name": "Sirius Black",
+    "key": "sirius",
+    "short": "A teacher of Harry Poter",
+    "description": "Harry's godfather who was a close friend of Harry's father James. Escapee from Azkaban prison and member of the Order of the Phoenix. Killed in the Battle of the Department of Mysteries by his cousin Bellatrix Lestrange.",
+    "photo": "/assets/serious.jpg",
+    "nickNames": ["Padfoot", "Snuffles"]
+  },
+  {
+    "name": "Hermione Granger",
+    "key": "hermoine",
+    "short": "Friend of Harry Potter",
+    "description": "Muggle-born Gryffindor student in Harry's year and one of his best friends. Prefect and co-founder of Dumbledore's Army.",
+    "photo": "/assets/hermioni.jpg",
+    "nickNames": ["Hermy", "Little", "Miss Perfect"]
+  },
+  {
+    "name": "Ron Weasley",
+    "key": "ron",
+    "short": "Room Mate of Harry Potter",
+    "description": "Youngest son of Arthur and Molly Weasley who is best friends with Harry Potter and Hermione Granger. Gryffindor Quidditch Keeper",
+    "photo": "/assets/ron.jpg",
+    "nickNames": ["Ickle Ronnikins", "Wheezy", "Won-Won"]
+  }
+]
